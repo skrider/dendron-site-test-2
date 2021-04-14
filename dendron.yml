@@ -13,7 +13,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Stephen Krider
-    description: Personal knowledge space
+    description: Welcome!
     gh_edit_repository: https://github.com/skrider/dendron-site-test-2
     duplicateNoteBehavior:
         action: useVault

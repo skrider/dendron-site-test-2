@@ -3,12 +3,12 @@ id: 502e56d3-3fd5-4617-a6a8-0a47914321f8
 title: Hello!
 desc: ''
 nav_order: 1
-updated: 1618368931741
+updated: 1618428249972
 created: 1618360326436
 stub: false
 ---
 
-I'm Stephen Krider, a freshman currently studying EECS and Business under UC Berkeley's [MET program](https://met.berkeley.edu/about/). I started out as a mechanical engineer, but fell in love with the purity of CS, and the power it gives one to construct systems limited only by imagination. I am currently now on my personal journey to becoming "real programmer".
+I'm Stephen Krider, a freshman currently studying EECS and Business under UC Berkeley's [MET program](https://met.berkeley.edu/about/). I started out as a mechanical engineer, but fell in love with the purity of CS, and the power it gives one to construct systems limited only by imagination. I am currently now on my personal journey to becoming a "real programmer".
 
 ### Interests
 
