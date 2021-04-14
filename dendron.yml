@@ -12,7 +12,7 @@ site:
         - site
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
+    title: Stephen Krider
     description: Personal knowledge space
     duplicateNoteBehavior:
         action: useVault
