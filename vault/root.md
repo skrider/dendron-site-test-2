@@ -1,10 +1,8 @@
 ---
-id: aa388c6d-b54f-4a1c-98fe-dd1bf261684b
-title: Root
+id: beb3dd1c-d08a-4a70-bf2a-6d3936e6f21a
+title: Home
 desc: ''
-updated: 1618376433811
-created: 1618376433814
+updated: 1618373307447
+created: 1617690287699
 ---
-# Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 

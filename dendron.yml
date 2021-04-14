@@ -9,7 +9,7 @@ noLegacyNoteRef: true
 site:
     copyAssets: true
     siteHierarchies:
-        - landing
+        - site
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
