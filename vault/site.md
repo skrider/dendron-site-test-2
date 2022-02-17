@@ -8,7 +8,7 @@ created: 1618360326436
 stub: false
 ---
 
-I'm Stephen Krider, currently working part-time as a Software Engineer at [Zeal](https://www.zeal.com/) while attending UC Berkeley as a sophomore, studying Electrical Engineering and Computer Science as well as Business Administration. During as well as after college, I plan to pair my love for software architecture as well as an affinity for fast-paced working environments to go work in startups!
+I'm Stephen Krider, currently attending UC Berkeley as a sophomore, studying Electrical Engineering and Computer Science as well as Business Administration. In the past, I have worked as a software engineer part time at [Zeal](https://www.zeal.com/), a series-A B2B SaaS startup. During as well as after college, I plan to pair my love for software architecture as well as an affinity for fast-paced working environments to go work in startups!
 
 ### Interests
 
